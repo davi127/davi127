@@ -11,7 +11,7 @@
 
 
 	
-<picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></picture> **Sobre Mi**
+<picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></picture> **Sobre Mi** <br>
 :point_down: :point_down: :point_down: :point_down: :point_down: :point_down::point_down: :point_down: :point_down::point_down::point_down: :point_down: :point_down: :point_down: :point_down: :point_down: :point_down: :point_down: :point_down: 
 
 
