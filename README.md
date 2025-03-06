@@ -33,8 +33,6 @@
 <p align="center">
     
 - **Front-End Development**:
-
-  [!html](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   [![css](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   [![js](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   [![bootstrap](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
