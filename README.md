@@ -14,7 +14,7 @@
 - 🎵 En mi tiempo libre disfruto jugar y escuchar música.
 - 🛠 Actualmente aprendiendo bases de datos por cuenta propia.
 - 🌐 Mi sitio web personal: [Portafolio]([https://davi127.github.io/](https://davi127.github.io/davi127-portafolio.io/#))
-- 📄 Buscando oportunidades laborales: [Descargar mi CV](https://read.cv/0xabdulkhalid)
+- 📄 Buscando oportunidades laborales: [Descargar mi CV](CURRICULUM-2025.pdf)
 
 ---
 
@@ -49,7 +49,7 @@
 ## 📩 ¡Contáctame!
 
 <p align="center">
-  <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+  <a href="https://www.linkedin.com/in/david-paul-ore-anticona-240352356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0xabdulkhalid-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/asdasdasd" target="_blank">
