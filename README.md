@@ -50,11 +50,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-paul-ore-anticona-240352356/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0xabdulkhalid-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/asdasdasd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0xabdulkhalid-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-david-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a
   <a href="mailto:oreanticona@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-oreanticona@gmail.com-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
