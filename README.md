@@ -37,11 +37,11 @@
 
 ---
 
-## 📊 Github Stats
+## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=davi127&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=007bff&icon_color=28a745&text_color=343a40&bg_color=0,f0f0f0,ffffff" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davi127&show_icons=true&locale=en&layout=compact&line_height=20&title_color=007bff&icon_color=28a745&text_color=343a40&bg_color=0,f0f0f0,ffffff" width="375"/>
 </p>
 
 ---
