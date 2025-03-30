@@ -13,7 +13,7 @@
 - 💻 Apasionado desarrollador Front-end (en último ciclo) y autodidacta.
 - 🎵 En mi tiempo libre disfruto jugar y escuchar música.
 - 🛠 Actualmente aprendiendo bases de datos por cuenta propia.
-- 🌐 Mi sitio web personal: [Portafolio](https://davi127.github.io/)
+- 🌐 Mi sitio web personal: [Portafolio]([https://davi127.github.io/](https://davi127.github.io/davi127-portafolio.io/#))
 - 📄 Buscando oportunidades laborales: [Descargar mi CV](https://read.cv/0xabdulkhalid)
 
 ---
